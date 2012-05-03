@@ -1,0 +1,6 @@
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\bin\Release\Barfield-Cleaner.exe.config
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\bin\Release\Barfield-Cleaner.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\bin\Release\Barfield-Cleaner.pdb
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\obj\Release\Barfield-Cleaner.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\obj\Release\Barfield-Cleaner.pdb

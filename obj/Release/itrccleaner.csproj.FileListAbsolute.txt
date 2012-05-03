@@ -1,0 +1,18 @@
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.exe.config
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.pdb
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\obj\Release\itrccleaner.exe
+C:\Users\Drew\Documents\Visual Studio 2010\Projects\barfieldcleaner\barfieldcleaner\obj\Release\itrccleaner.pdb
+C:\Users\barfiela\Desktop\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.exe.config
+C:\Users\barfiela\Desktop\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.exe
+C:\Users\barfiela\Desktop\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.pdb
+C:\Users\barfiela\Desktop\barfieldcleaner\barfieldcleaner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\barfiela\Desktop\barfieldcleaner\barfieldcleaner\obj\Release\itrccleaner.exe
+C:\Users\barfiela\Desktop\barfieldcleaner\barfieldcleaner\obj\Release\itrccleaner.pdb
+C:\Users\Drew\Desktop\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.exe.config
+C:\Users\Drew\Desktop\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.exe
+C:\Users\Drew\Desktop\barfieldcleaner\barfieldcleaner\bin\Release\itrccleaner.pdb
+C:\Users\Drew\Desktop\barfieldcleaner\barfieldcleaner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Drew\Desktop\barfieldcleaner\barfieldcleaner\obj\Release\itrccleaner.exe
+C:\Users\Drew\Desktop\barfieldcleaner\barfieldcleaner\obj\Release\itrccleaner.pdb

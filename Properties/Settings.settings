@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BarfieldCleaner.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="RequiredOSProcesses" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;alg&lt;/string&gt;
+  &lt;string&gt;audiodg&lt;/string&gt;
+  &lt;string&gt;chrome&lt;/string&gt;
+  &lt;string&gt;cmd&lt;/string&gt;
+  &lt;string&gt;conhost&lt;/string&gt;
+  &lt;string&gt;csrss&lt;/string&gt;
+  &lt;string&gt;ctfmon&lt;/string&gt;
+  &lt;string&gt;dllhost&lt;/string&gt;
+  &lt;string&gt;dwm&lt;/string&gt;
+  &lt;string&gt;BarfieldCleaner&lt;/string&gt;
+  &lt;string&gt;explorer&lt;/string&gt;
+  &lt;string&gt;idle&lt;/string&gt;
+  &lt;string&gt;lsass&lt;/string&gt;
+  &lt;string&gt;lsm&lt;/string&gt;
+  &lt;string&gt;nvvsvc&lt;/string&gt;
+  &lt;string&gt;rundll32&lt;/string&gt;
+  &lt;string&gt;regedit&lt;/string&gt;
+  &lt;string&gt;svchost&lt;/string&gt;
+  &lt;string&gt;services&lt;/string&gt;
+  &lt;string&gt;smss&lt;/string&gt;
+  &lt;string&gt;spoolsv&lt;/string&gt;
+  &lt;string&gt;system&lt;/string&gt;
+  &lt;string&gt;taskeng&lt;/string&gt;
+  &lt;string&gt;taskmgr&lt;/string&gt;
+  &lt;string&gt;vcsexpress&lt;/string&gt;
+  &lt;string&gt;wininit&lt;/string&gt;
+  &lt;string&gt;winlogon&lt;/string&gt;
+  &lt;string&gt;wmiprvse&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
